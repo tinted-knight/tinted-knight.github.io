@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "8RWN5GRP84.app.theessence.nektar",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "8RWN5GRP84.app.theessence.nektar.qa",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "8RWN5GRP84.app.theessence.nektar.paid",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
