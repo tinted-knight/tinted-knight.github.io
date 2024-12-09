@@ -14,14 +14,14 @@ function loadJson(index) {
     fetch(jsonFiles[index])
         .then(response => response.json())
         .then(data => {
-            displayCard(data);
+            displayCard(data, index);
             updateButtons();
         })
         .catch(err => console.error("Error loading JSON:", err));
 }
-function displayCard(data) {
+function displayCard(data, index) {
     card.innerHTML = `
-        <p><strong>Phase: </strong>${data.phase}</p>
+        <p><strong>Phase: </strong>${jsonFiles[index]}</p>
         <p><strong>TLDR: </strong>${data.tldr}</p>
         <p><strong>Some fun astro bullshit: </strong>${data.output.astro}</p>
         <p><strong>Me & myself: </strong>${data.output.people}</p>
