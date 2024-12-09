@@ -1,20 +1,21 @@
 {
-    "disclaimer": "I'll answer as the world-famous astrological health expert with the Nobel Prize in Physiology or Medicine",
-    "about_me": "I'll answer as a world-famous astrological and health expert, adept at understanding how celestial movements influence physical well-being, awarded the Nobel Prize in Physiology or Medicine.",
-    "tldr": "TL;DR: Taking care of yourself during this time of the month is crucial to maintaining balance and harmony. As a Libra born on October 6, your diplomatic and charming nature can be extra useful today.",
-    "output": {
-        "astro": "You, dear Libra, born under the ruling planet Venus, are all about beauty, balance, and relationships. Venus adds a touch of charm and love to everything you do. Today, understanding your body's natural rhythm will help you navigate the cosmos with grace.",
-        "people": "During the third day of your menstrual phase, your hormone levels might be starting to stabilize, but you could still be experiencing lower energy levels. Be gentle with yourself and allow some alone time if needed, but don't shy away from social interactions. Use your natural diplomacy to communicate clearly and ask for support if necessary.",
-        "me": "People may perceive you as introspective and slightly subdued, but also wise and contemplative. They might notice a more reflective side to you, which could spark deep and meaningful conversations.",
-        "finance": "Given your current state, it's best to avoid making any impulsive financial decisions. Focus on reviewing your finances, and put off any significant investments or purchases for a few days. Take this time to plan and strategize instead.",
-        "behavior": "You might be tempted to indulge in some comfort shopping or spontaneous decisions, but it's essential to stay grounded. Practice mindfulness and consider if these impulses align with your long-term goals.",
-        "evening_extro": "If you're feeling social, plan a cozy gathering with close friends or loved ones. Maybe a casual dinner or movie night at home, where you can relax and enjoy good company without feeling overwhelmed.",
-        "evening_intro": "For my lovely introverts, a quiet evening at home would be perfect. A warm bath, a good book, or binge-watching your favorite series can help you unwind and recharge.",
-        "nutrition_all": "Focus on comforting and nourishing foods. Think whole grains, lean proteins, and plenty of vegetables. A hearty stew or soup with some warm, crusty bread could be ideal.",
-        "nutrition_vegan": "For my vegan goddesses, how about a flavorful quinoa bowl with roasted vegetables, chickpeas, and a tahini dressing? Add some leafy greens and avocado for extra nutrients.",
-        "nutrition_vegetarian": "Being a vegetarian opens up many delicious options. Consider a rich, vegetable-packed lasagna or a stuffed bell pepper with rice, beans, and your favorite veggies.",
-        "sports": "Gentle exercises like yoga or a light walk can be incredibly beneficial today. Listen to your body and avoid anything too strenuous. Focus on movements that promote relaxation and stress relief.",
-        "quote": "\"Listen to your body. It's smarter than you.\" - Unknown",
-        "motto": "\"Peace and balance within.\""
-    }
+  "disclaimer": "I'll answer as the world-famous astrologer with the prestigious local Golden Astrolabe award",
+  "about_me": "I'll answer as a world-famous astrologer with the Golden Astrolabe award",
+  "tldr": "TL;DR",
+  "output": {
+    "astro": "You, my dear, are a Libra, born under the balance-loving and harmonious sign of the scales. Venus, your ruling planet, is all about love, beauty, and aesthetics. With Venus currently in Sagittarius, you might feel an urge for adventure and exploration – both emotionally and physically.",
+    "people": "As you're on the 3rd day of your menstrual cycle, sensitivity might be heightened. Be gentle with yourself and others. Practice diplomacy – your innate Libra skill – and remember, it's okay to ask for a bit of space if you need it.",
+    "me": "People might perceive you as a bit distant or introspective today, which is totally fine. Embrace it! Your introspective vibe can be very alluring, drawing people in while you maintain your personal space.",
+    "finance": "Given the introspective nature of today, it's best to approach financial decisions with caution. Avoid impulsive spending; instead, take some time to reflect on your budget and future financial goals.",
+    "behavior": "You might feel an urge to make sudden decisions or chase after new experiences due to Venus in Sagittarius. Be mindful of this and try to channel that energy into planning rather than spontaneous actions.",
+    "evening_extro": "If you're feeling extroverted, this evening is perfect for a low-key social gathering or a dinner with close friends. Engage in activities that require less energy but still allow you to connect with others.",
+    "evening_intro": "For my introverted beauties, a cozy night in with a good book, a warm bath, or a calming meditation session is perfect. Take this time to recharge and indulge in self-care.",
+    "nutrition_all": "Load up on iron-rich foods like spinach, red meat, and lentils to help combat menstrual fatigue. Hydrate with plenty of water and consider a soothing herbal tea, like chamomile, for relaxation.",
+    "nutrition_vegan": "Focus on plant-based iron sources such as lentils, chickpeas, quinoa, and leafy greens. Vitamin C-rich foods like bell peppers and citrus fruits can help with iron absorption. Don’t forget B12 supplements!",
+    "nutrition_vegetarian": "Include dairy, eggs, and plant-based iron sources like beans and tofu in your diet. A hearty vegetable curry with spinach or a chickpea salad could be perfect for today.",
+    "sports": "Opt for gentle exercises like yoga, stretching, or a calming walk in nature. These activities can help alleviate any menstrual discomfort and keep you grounded.",
+    "quote": "\"Self-care is how you take your power back.\" – Lalah Delia",
+    "motto": "Embrace the balance within.",
+    "footer": "There you have it! Your cosmic blueprint for the day. Embrace the ebb and flow, and remember, you're always in control of your own destiny. 💖🌟"
+  }
 }
