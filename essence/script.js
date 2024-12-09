@@ -2,6 +2,19 @@ const jsonFiles = [
     "json/01.me.01.json",
     "json/02.me.02.json",
     "json/03.me.03.json",
+    "json/04.me.04.json",
+    "json/05.folli.01.json",
+    "json/06.folli.02.json",
+    "json/07.folli.03.json",
+    "json/08.folli.04.json",
+    "json/09.ovu.01.json",
+    "json/10.ovu.02.json",
+    "json/11.ovu.03.json",
+    "json/12.ovu.04.json",
+    "json/13.lute.01.json",
+    "json/14.lute.02.json",
+    "json/15.lute.03.json",
+    "json/16.lute.04.json",
 ];
 
 let currentIndex = 0;
@@ -19,6 +32,7 @@ function loadJson(index) {
         })
         .catch(err => console.error("Error loading JSON:", err));
 }
+
 function displayCard(data, index) {
     card.innerHTML = `
         <p><strong>Phase: </strong>${jsonFiles[index]}</p>
@@ -43,20 +57,20 @@ function displayCard(data, index) {
 
 function updateButtons() {
     prevButton.disabled = currentIndex === 0;
-    nextButton.disabled = currentIndex === jsonData.length - 1;
+    nextButton.disabled = currentIndex === jsonFiles.length - 1;
 }
 
 prevButton.addEventListener("click", () => {
     if (currentIndex > 0) {
         currentIndex--;
-        displayCard(currentIndex);
+        loadJson(currentIndex);
     }
 });
 
 nextButton.addEventListener("click", () => {
-    if (currentIndex < jsonData.length - 1) {
+    if (currentIndex < jsonFiles.length - 1) {
         currentIndex++;
-        displayCard(currentIndex);
+        loadJson(currentIndex);
     }
 });
 
